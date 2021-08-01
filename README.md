@@ -2,13 +2,7 @@
 
 This is just a demo repository :-
 
-Full code is deployed at https://hawkshawspy.com/
-
-Watch video on YouTube at https://www.youtube.com/watch?v=1SKepgCq3tw
-
-For subscription/queries, email me at gupta.10@iitj.ac.in
-or
-Telegram :- @hawkshaw02
+This project is abandoned and we are not maintaining it anymore, you can telegram me at :- @hawkshaw02 if you want to discuss something (Don't ask for source code).
 
 ![Screenshot](Screenshot%20from%202019-09-15%2001-46-16.png)
 
